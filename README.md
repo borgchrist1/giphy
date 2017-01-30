@@ -7,7 +7,8 @@ The Giphy application we build while learning [Node.js](https://nodejs.org/en) a
 ## How to set up
 * First you need to have [node.js](http://www.nodejs.com) installed
 * Clone this repository ``git clone https://github.com/borgchrist1/giphy.git``
-* run ``npm install``
+* run ``npm install`` from your download directory
+* Finally just run ``npm run watch``   
 
 ## License
 
