@@ -1,7 +1,7 @@
 {
   "name": "giphy",
   "description": "The Giphy application we build while learning Node.js and npm",
-  "author": "Vincent Klaiber <hello@vinkla.com>",
+  "author": "Christian Borg <christian.borg@outlook.com>",
   "private": true,
   "scripts": {
     "build:scripts": "rollup --config",
